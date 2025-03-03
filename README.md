@@ -1,7 +1,7 @@
 
 # ColorVision Aid
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 
 **ColorVision Aid** is a project designed to improve color vision for people with color blindness through image analysis and optimization.
 
